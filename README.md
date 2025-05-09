@@ -1,4 +1,4 @@
-# Playwright - JavaScript with POM
+# Playwright - TypeScript with POM
 This is a simple test automation project for Device Manager WebApp. It's build with Playwright and Typescript using Page Object Model(POM) framework.
 
 # Folder Structure
